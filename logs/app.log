@@ -1,0 +1,9 @@
+2025-08-31 02:28:39 | INFO     | __main__:check_dependencies:38 - Checking dependencies...
+2025-08-31 02:28:39 | INFO     | __main__:check_dependencies:44 - PostgreSQL driver available
+2025-08-31 02:28:40 | INFO     | __main__:check_dependencies:51 - Qdrant client available
+2025-08-31 02:28:40 | INFO     | __main__:initialize_app:76 - Creating database tables...
+2025-08-31 02:28:40 | INFO     | __main__:initialize_app:78 - Database tables created successfully
+2025-08-31 02:28:40 | INFO     | __main__:main:92 - Starting AI Misinformation Detector API server...
+2025-08-31 02:28:40 | INFO     | __main__:main:93 - Server will run at: http://0.0.0.0:8000
+2025-08-31 02:28:40 | INFO     | __main__:main:94 - API documentation available at: /docs
+2025-08-31 02:28:40 | INFO     | __main__:main:95 - Web interface available at: /
